@@ -9,8 +9,8 @@
 # Update User
 # Delete Used
 
-npm install 
-npm install -g bower
-npm install -g nodemon
-bower install bootstrap
-nodemon
+# npm install 
+# npm install -g bower
+# npm install -g nodemon
+# bower install bootstrap
+# nodemon
