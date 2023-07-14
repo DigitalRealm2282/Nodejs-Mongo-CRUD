@@ -7,7 +7,7 @@
 # nodemon
 
 #  !! Tech used !!
-# Mongo Users
+# Mongo DB (Mongoose)
 # HandleBars HBS
 # bower components 
 # bootStrap
