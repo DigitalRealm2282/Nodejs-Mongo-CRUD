@@ -1,4 +1,9 @@
 # !!Simple-Nodejs-Mongo-CRUD!!
+
+![Screenshot](node-crud.png)
+![Screenshot](node-crud2.png)
+![Screenshot](node-crud3.png)
+
 # how to run
 # npm install 
 # npm install -g bower
