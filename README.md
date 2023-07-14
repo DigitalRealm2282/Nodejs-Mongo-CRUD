@@ -1,4 +1,4 @@
-# Simple-Nodejs-Mongo-CRUD
+# !!Simple-Nodejs-Mongo-CRUD!!
 # how to run
 # npm install 
 # npm install -g bower
@@ -6,14 +6,14 @@
 # bower install bootstrap
 # nodemon
 
-#  Tech used
+#  !! Tech used !!
 # Mongo Users
 # HandleBars HBS
 # bower components 
 # bootStrap
 # Controller for User
 
-# Whats it can do
+# !! Whats it can do !!
 # Create User
 # Read All Users
 # Update User
