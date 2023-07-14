@@ -9,9 +9,9 @@
 #  !! Tech used !!
 # Express
 # Mongo DB (Mongoose)
-# HandleBars HBS
+# HandleBars (HBS)
 # bower components 
-# bootStrap
+# Bootstrap
 # Controller for User
 <br></br><br></br>
 # !! Whats it can do !!
